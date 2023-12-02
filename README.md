@@ -3,7 +3,7 @@ Welcome to Little Lemon, a project that dives into the realm of data visualizati
 ## Visualization Insights
 ![Screenshot 2023-12-02 203105](https://github.com/soheilgarfam/LittleLemon_capstone_project/assets/94307530/1775b9b8-de20-4c7d-8373-8b652759cbda)
 This visualization showcases the geographical distribution of our customers and highlights the countries where the most sales have occurred.
-##Dashboard Overview
+## Dashboard Overview
 ![Screenshot 2023-12-02 203000](https://github.com/soheilgarfam/LittleLemon_capstone_project/assets/94307530/fa8faf68-8d5e-4be1-b277-8243fd7eebe1)
 
 This dashboard provides a comprehensive insight into various metrics derived from the data. For more detailed insights, feel free to explore the provided CSV file.
